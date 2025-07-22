@@ -1,0 +1,6 @@
+snscrape
+readability-lxml
+requests
+beautifulsoup4
+python-dotenv
+PyYAML
